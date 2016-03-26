@@ -7,5 +7,5 @@ public interface Constants {
 	/**
 	 * Payment Gateway ID's
 	 */
-	String PG_ID_PAYU = "PAYU";
+	String PG_ID_PAYU = "111";
 }

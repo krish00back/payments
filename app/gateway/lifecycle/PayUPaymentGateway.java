@@ -21,6 +21,7 @@ public class PayUPaymentGateway implements PaymentGateway{
 		String productinfo = request.get("productinfo");
 		String firstname = request.get("firstname");
 		String email = request.get("email");
+		String phone = request.get("phone");
 		String udf1 = request.get("udf1");
 		String udf2 = request.get("udf2");
 		String udf3 = request.get("udf3");
