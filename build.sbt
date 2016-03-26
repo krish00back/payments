@@ -18,3 +18,4 @@ libraryDependencies ++= Seq(
     "org.mockito" % "mockito-core" % "1.9.5" % "test",
     "org.postgresql" % "postgresql" % "9.4-1200-jdbc41"
 )
+
